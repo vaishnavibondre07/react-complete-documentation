@@ -223,4 +223,4 @@ React handles the update.
 10. If React did not use Virtual DOM, what issues could arise?
 
 
-⬅ Back to Home
+[⬅ Back to Home](../README.md)
