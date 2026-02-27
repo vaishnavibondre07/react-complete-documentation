@@ -11,6 +11,7 @@ More chapters will be added progressively.
 ## 📚 Available Chapters 
 
 1. [Introduction to React](Chapter/01-introduction-to-react.md)
+2. [JSX ( JavaScript XML )](Chapter/02-jsx.md)
 
 ---
 
