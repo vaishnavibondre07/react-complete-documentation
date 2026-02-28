@@ -291,4 +291,4 @@ Example:
 10. Create a reusable *Card* component.
 
 
-[⬅ Back to Home](../)
+[⬅ Back to Home](../README.md)
