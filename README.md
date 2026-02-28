@@ -12,6 +12,7 @@ More chapters will be added progressively.
 
 1. [Introduction to React](Chapter/01-introduction-to-react.md)
 2. [JSX ( JavaScript XML )](Chapter/02-jsx.md)
+3. [Components](Chapter/03-components.md)
 
 ---
 
