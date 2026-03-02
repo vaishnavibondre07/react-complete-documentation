@@ -14,6 +14,7 @@ More chapters will be added progressively.
 2. [ JSX ( JavaScript XML )](Chapter/02-jsx.md)
 3. [ Components](Chapter/03-components.md)
 4. [ Props](Chapter/04-props.md)
+5. [ State](Chapter/05-state.md)
 
 ---
 
