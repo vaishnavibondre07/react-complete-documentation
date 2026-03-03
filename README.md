@@ -15,6 +15,7 @@ More chapters will be added progressively.
 3. [ Components](Chapter/03-components.md)
 4. [ Props](Chapter/04-props.md)
 5. [ State](Chapter/05-state.md)
+6. [ Event Handling](Chapter/06-event-handling.md)
 
 ---
 
