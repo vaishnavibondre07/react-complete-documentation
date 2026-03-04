@@ -16,7 +16,7 @@ More chapters will be added progressively.
 4. [ Props](Chapter/04-props.md)
 5. [ State](Chapter/05-state.md)
 6. [ Event Handling](Chapter/06-event-handling.md)
-7. [ Conditional Rendering](Chapter/07-conditional-rendering)
+7. [ Conditional Rendering](Chapter/07-conditional-rendering.md)
 
 ---
 
