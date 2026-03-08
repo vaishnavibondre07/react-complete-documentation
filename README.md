@@ -17,7 +17,7 @@ More chapters will be added progressively.
 5. [ State](Chapter/05-state.md)
 6. [ Event Handling](Chapter/06-event-handling.md)
 7. [ Conditional Rendering](Chapter/07-conditional-rendering.md)
-8. [ Lists and Keys ](Chapter/08-lists-and-keys)
+8. [ Lists and Keys ](Chapter/08-lists-and-keys.md)
 
 ---
 
