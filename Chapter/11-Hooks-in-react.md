@@ -197,18 +197,6 @@ Hooks used everywhere:
 
 ---
 
-## 🔹 Back to Home Button
-
-```jsx id="y3zv8m"
-import { Link } from "react-router-dom";
-
-function BackHome() {
-  return <Link to="/">⬅ Back to Home</Link>;
-}
-```
-
----
-
 ## 📝 QUESTIONS
 
 1. Why were Hooks introduced in React?
