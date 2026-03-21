@@ -265,17 +265,6 @@ useEffect(() => {
 * Wrong dependencies → infinite loops
 
 ---
-
-## 🔹 Back to Home Button
-
-```jsx
-import { Link } from "react-router-dom";
-
-function BackHome() {
-  return <Link to="/">⬅ Back to Home</Link>;
-}
-```
-
 ## 📝 QUESTIONS
 
 1. What is a side effect in React?
