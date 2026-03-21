@@ -18,6 +18,8 @@ More chapters will be added progressively.
 6. [ Event Handling](Chapter/06-event-handling.md)
 7. [ Conditional Rendering](Chapter/07-conditional-rendering.md)
 8. [ Lists and Keys ](Chapter/08-lists-and-keys.md)
+9. [ Forms in react ](Chapter/09-forms-in-react.md)
+10. [ useEffect Hook ](Chapter/10-useEffect-hook.md)
 
 ---
 
