@@ -20,6 +20,8 @@ More chapters will be added progressively.
 8. [ Lists and Keys ](Chapter/08-lists-and-keys.md)
 9. [ Forms in react ](Chapter/09-forms-in-react.md)
 10. [ useEffect Hook ](Chapter/10-useEffect-hook.md)
+11. [ Hooks in react](Chapter/11-Hooks-in-react.md)
+12. [ Commonly used Hooks](Chapter/12-commonly-used-hooks.md)
 
 ---
 
