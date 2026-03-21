@@ -22,6 +22,8 @@ More chapters will be added progressively.
 10. [ useEffect Hook ](Chapter/10-useEffect-hook.md)
 11. [ Hooks in react](Chapter/11-Hooks-in-react.md)
 12. [ Commonly used Hooks](Chapter/12-commonly-used-hooks.md)
+13. [ Context Api](Chapter/13-context-api.md)
+14. [ React Router](Chapter/14-react-router)
 
 ---
 
